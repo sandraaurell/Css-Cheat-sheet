@@ -1,0 +1,49 @@
+* {
+  font-family: "Instrument Serif", serif;
+  font-weight: 400;
+}
+
+body {
+  background-color: #f3ebe0;
+}
+
+#Header {
+  background-color: #d1a99e;
+}
+h1 {
+  font-size: 96px;
+  margin: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.category {
+  text-align: center;
+  font-size: 64px;
+  text-transform: uppercase;
+}
+
+.SubCategory {
+  font-size: 40px;
+  font-style: italic;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 36px;
+  text-transform: uppercase;
+  margin: auto;
+}
+thead {
+  background-color: #e3eaf4;
+  text-align: center;
+}
+
+th {
+  border: solid 1px black;
+  border-collapse: collapse;
+  text-align: left;
+}
